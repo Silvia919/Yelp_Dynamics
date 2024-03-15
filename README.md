@@ -30,14 +30,10 @@ Copy code
 jupyter notebook Yelp_Dynamics Code.ipynb
 Run all the cells in the notebook to reproduce the analysis and generate the results.
 
-Contributing
-Contributions to "Yelp Dynamics" are welcome! Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
-
 License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 Acknowledgments
 Yelp Dataset Challenge for providing the dataset.
-Contributors who have participated in this project.
 Contact
-For any queries, you can reach out to [Project Maintainer's Name] at email@example.com.
+For any queries, you can reach out to Anne Silvia Dasi at adasi1@asu.edu
